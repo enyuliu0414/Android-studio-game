@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CatchingAndroid</string>
+    <string name="lose">lose</string>
+    <string name="todo">TODO</string>
+    <string name="exit">exit</string>
+    <string name="yes">yes</string>
+    <string name="do_you_want_to_retry_the_game">do_you_want_to_retry_the_game</string>
+</resources>
